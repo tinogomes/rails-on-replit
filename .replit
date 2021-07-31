@@ -1,1 +1,2 @@
 run = 'bundle exec foreman start'
+language = 'ruby'
