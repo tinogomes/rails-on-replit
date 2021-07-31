@@ -1,2 +1,2 @@
-run = 'bundle exec foreman start'
+run = 'RAILS_SERVE_STATIC_FILES=true bundle exec foreman start'
 language = 'ruby'
